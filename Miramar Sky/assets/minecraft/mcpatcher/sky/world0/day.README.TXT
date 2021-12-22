@@ -1,3 +1,5 @@
+The original skybox was modified to work with Minecraft.
+
 Original license (from https://opengameart.org/content/miramar-skybox):
 
 THIS SKY WAS UPDATED AT THE 27TH

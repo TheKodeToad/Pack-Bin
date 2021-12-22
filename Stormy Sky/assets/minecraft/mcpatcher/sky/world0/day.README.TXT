@@ -1,3 +1,5 @@
+The original skybox was modified to work with Minecraft.
+
 Original license (from https://opengameart.org/content/stormy-days-skybox):
 
 STORMY DAYS
